@@ -1,7 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Project is Live on heroku (https://movie-app-01.herokuapp.com/
-)
+## Project is Live on heroku (https://movie-app-01.herokuapp.com/)
 
 ### This is react project, using redux, and context Api
 
