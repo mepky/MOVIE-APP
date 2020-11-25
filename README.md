@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project is Live on heroku git:remote -a movie-app-01
+
+# This is react project, using redux, and context Api
+
 ## Available Scripts
 
 In the project directory, you can run:
