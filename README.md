@@ -1,8 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Project is Live on heroku git:remote -a movie-app-01
+## Project is Live on heroku (https://movie-app-01.herokuapp.com/
+)
 
-# This is react project, using redux, and context Api
+### This is react project, using redux, and context Api
 
 ## Available Scripts
 
